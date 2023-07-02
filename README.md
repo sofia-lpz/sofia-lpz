@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Reach me at sofialopezcontact@gmail.com
+You can reach me at sofialopezcontact@gmail.com
+- Currently first year computer science student
+
 
