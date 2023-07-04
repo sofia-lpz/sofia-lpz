@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 - Computer Science student @ [Tec Mty](https://tec.mx/es)
 - Reach me! sofialopezcontact@gmail.com
+- or at my institutional email a01028251@tec.mx
 
   
 <h3 align="left">Languages and Tools:</h3>
