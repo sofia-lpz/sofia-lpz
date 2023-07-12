@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </head> 
     -->
 
-<h1 align="center">Hi 👋 Sofia Moreno here</h1>
+<h1 align="center">👋 Hi there</h1>
 
-- Computer Science student @ [Tecnologico de Monterrey](https://tec.mx/en) open for internships
+- I am a computer Science student @ [Tecnologico de Monterrey](https://tec.mx/en), open for internships
   
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 
 - Reach me! sofialopezcontact@gmail.com
