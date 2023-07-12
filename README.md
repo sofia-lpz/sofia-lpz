@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋 Sofia Moreno here</h1>
 
-- Computer Science student @ [Tec Mty](https://tec.mx/es) open for programming internships
+- Computer Science student @ [Tec Mty](https://tec.mx/es) open for internships
 - Reach me! sofialopezcontact@gmail.com
 - or at my institutional email a01028251@tec.mx
 
