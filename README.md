@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 Hi there</h1>
 
-- I am a computer Science student @ [Tecnologico de Monterrey](https://tec.mx/en), open for internships
+- I am a computer science student @ [Tecnologico de Monterrey](https://tec.mx/en), open for internships
   
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 
 - Reach me! sofialopezcontact@gmail.com
