@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋 Sofia Moreno here</h1>
 
-- Computer Science student @ [Tec Mty](https://tec.mx/es) open for internships
+- Computer Science student @ [Tecnologico de Monterrey](https://tec.mx/en) open for internships
+  
+- Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 
 - Reach me! sofialopezcontact@gmail.com
-- or at my institutional email a01028251@tec.mx
 
   
 <h3 align="left">Languages and Tools:</h3>
