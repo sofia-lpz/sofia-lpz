@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 Hi there</h1>
 
-- I am a computer science student @ [Tecnologico de Monterrey](https://tec.mx/en), open for internships
+- Computer science student @ [Tecnologico de Monterrey](https://tec.mx/en) open for internships!
   
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 
-- Reach me! sofialopezcontact@gmail.com
+- Reach me @ sofialopezcontact@gmail.com
 
   
 <h3 align="left">Languages and Tools:</h3>
