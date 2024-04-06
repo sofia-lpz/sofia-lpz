@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 </head> 
     -->
 
+# Hello, I'm Sofia!    
 - Computer science student @ [Tecnologico de Monterrey](https://tec.mx/en)
   
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 
