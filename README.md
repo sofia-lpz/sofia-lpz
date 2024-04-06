@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 # Hello, I'm Sofia!    
 - Computer science student @ [Tecnologico de Monterrey](https://tec.mx/en)
   
-- Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 
+- Coding for the [Robomaster North American League](https://www.robomasterna.com/about)
+- Research assistant studying how to [accelerate training of neural networks](https://arxiv.org/pdf/1910.00762.pdf)
+- AWS HackMX5 hackathon finalist!
 - Reach me @ sofialopezcontact@gmail.com
 
   
