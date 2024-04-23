@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     -->
 
 # Hello, I'm Sofia!    
-### I study computer science student @ [Tecnologico de Monterrey](https://tec.mx/en)
+### I study computer science @ [Tecnologico de Monterrey](https://tec.mx/en)
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about)
 - Research assistant [accelerating training of neural networks](https://arxiv.org/pdf/1910.00762.pdf)
 - AWS HackMX5 hackathon finalist
