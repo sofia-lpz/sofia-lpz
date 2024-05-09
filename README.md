@@ -1,38 +1,3 @@
-<!--
-**sofia-lpz/sofia-lpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<!DOCTYPE html> 
-<html> 
-<head> 
-    <style>
-    .vertical {
-        border-left: 5px solid white;
-        height: 200px;
-    }
-    
-    aside {
-        background-color: orange;
-        width: 40%;
-        display: inline-block;
-        float: right;
-    }
-    </style>
-</head> 
-    -->
-
 # Hello, I'm Sofia!    
 ### I study computer science @ [Tecnologico de Monterrey](https://tec.mx/en)
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about)
@@ -85,8 +50,10 @@ Here are some ideas to get you started:
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> 
     </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="linux" width="40" height="40"/> 
+    </a>
 </p>
 
 
-</html> 
-
+</html>
