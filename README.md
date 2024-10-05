@@ -3,7 +3,7 @@
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 🤖
 - Research assistant [accelerating training of neural networks](https://arxiv.org/pdf/1910.00762.pdf) 💫
 - AWS HackMX5 hackathon finalist 🥈
-- [Bono.Eco](https://bono.eco/) hackathon winner and 2024 summer intern 🌱
+- [Bono](https://bono.eco/) hackathon winner and SWE intern 🌱
 
 ### Reach me @ sofialopezcontact@gmail.com
 
