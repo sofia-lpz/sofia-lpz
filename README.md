@@ -1,8 +1,8 @@
 # Hello, I'm Sofia!    
 ### I study computer science @ [Tecnologico de Monterrey](https://tec.mx/en)
 - Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 🤖
-- Research assistant [accelerating training of neural networks](https://arxiv.org/pdf/1910.00762.pdf) 💫
-- AWS HackMX5 hackathon finalist 🥈
+- Research assistant on empowerment AI learning 💫
+- MIT HackMX6 hackathon winner! 
 - [Bono](https://bono.eco/) hackathon winner and SWE intern 🌱
 
 ### Reach me @ sofialopezcontact@gmail.com
