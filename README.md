@@ -1,6 +1,5 @@
 # Hello, I'm Sofia!    
 ### I study computer science @ [Tecnologico de Monterrey](https://tec.mx/en)
-- Coding for the [Robomaster North American League](https://www.robomasterna.com/about) 🤖
 - Research assistant on empowerment AI learning 💫
 - MIT HackMX6 hackathon winner! 
 - [Bono](https://bono.eco/) hackathon winner and SWE intern 🌱
