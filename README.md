@@ -4,7 +4,9 @@
 
 I build AI-powered products and full-stack systems. Currently interning at **Trott Systems**, previously at **Bono.eco** where I helped ship a multi-tenant carbon footprint SaaS platform used by Grupo Modelo and F1 Mexico Grand Prix.
 
-### [Aqui puedes ver mi CV!](./sofiaMoreno_SoftwareCV.pdf)
+### [Check out my CV](./sofiaMoreno_softwareCV.pdf)
+### [Y aqui puedes ver mi CV en español](./sofiaMoreno_softwareCV_español.pdf)
+
 
 ---
 
