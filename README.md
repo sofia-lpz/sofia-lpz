@@ -19,6 +19,7 @@ I build AI-powered products and full-stack systems. Currently interning at **Tro
 
 ### 🏆 Awards & Hackathons
 - 🥇 MIT HackMX6 Hackathon — Winner (2024)
+- 🥇 Banamex Hackathon — Winner (2026)
 - 🥇 Bono EcoHack Hackathon — Winner (2024)
 - 🥈 Hack4Her Arca Continental AI Hackathon — 2nd Place (2025)
 - 🥈 AWS HackMX5 Hackathon — 2nd Place (2023)
