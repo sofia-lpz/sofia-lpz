@@ -1,19 +1,13 @@
 # Hi, I'm Sofia! 👋
 
-### Computer Science Engineer from [Tecnológico de Monterrey](https://tec.mx/en) — graduating in June 2026
+### Fullstack and AI Engineer from [Tecnológico de Monterrey](https://tec.mx/en)
 
-I build AI-powered products and full-stack systems. Currently interning at **Trott Systems**, previously at **Bono.eco** where I helped ship a multi-tenant carbon footprint SaaS platform used by Grupo Modelo and F1 Mexico Grand Prix.
-
-### [Check out my CV](./sofiaMoreno_softwareCV.pdf)
-### [Y aqui puedes ver mi CV en español](./sofiaMoreno_softwareCV_español.pdf)
-
+I build AI-powered products and full-stack systems. Currently at [Simon-Kucher](https://www.simon-kucher.com/en) as a Software Consultant.
 
 ---
 
 ### 🔬 What I'm working on
-- **Software Engineering Intern @ Trott Systems** — automating internal workflows with OpenAI API + Spring Boot
-- **AI Research Assistant @ Tec de Monterrey** — optimizing gradient flow in deep neural networks (30% faster convergence!)
-- Completing a **BEng in Computer Science** (Academic Talent Scholarship)
+- **Software Consultant @ Simon-Kucher** - Writing internal web apps and analyzing data from global consumer-goods companies with machine learning 
 
 ---
 
@@ -30,10 +24,11 @@ I build AI-powered products and full-stack systems. Currently interning at **Tro
 
 ### 🛠️ Tech Stack
 **Languages:** Python · C++ · C# · JavaScript · TypeScript · Java · MATLAB  
-**Web:** React · Vue · Spring Boot · Django · Node.js · Express.js · REST APIs · Microservices  
-**AI/ML:** PyTorch · TensorFlow · LangChain · RAG · LLM APIs · Vector Databases · Prompt Engineering  
+**Web:** React · Vue · Spring Boot · FastAPI · Node.js · Express.js · REST APIs · Microservices  
+**AI/ML:** PyTorch · Pandas and Numpy · TensorFlow · LangChain · RAG · LLM APIs · Vector Databases · Prompt Engineering  
 **Databases:** PostgreSQL · MySQL · MongoDB  
-**Cloud & DevOps:** AWS (Amplify, SageMaker) · Oracle Cloud · Docker · CI/CD · GitHub Actions  
+**Cloud & DevOps:** AWS · Oracle Cloud · Docker · CI/CD · GitHub Actions  
+**AI code tools!** Claude code · Github Copilot
 
 ---
 
